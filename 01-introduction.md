@@ -40,3 +40,56 @@
 - Many people start with automation, but **augmentation and agency** take the most advantage of AI's unique capabilities and often lead to the **most creative and effective solutions**.
 - AI is **more than a tool**. It can be a **tool, a medium, a partner, or a co-creator**, sometimes all at once. This shift means we have **new roles** and need to **develop new skills**.
 - Those skills make up the **AI Fluency Framework**: **four key areas of competence** to develop and master, whichever way you engage with AI.
+
+### The 4D Framework
+
+- Whether you work with AI through **automation, augmentation, or agency**, there are **four essential competencies** for collaborating _effectively, efficiently, ethically, and safely_: the **four Ds**.
+
+#### 1. Delegation: _the big picture_
+
+- Ask: **What are you trying to accomplish? What work should you handle yourself? Where might AI help?**
+- Example: let AI **review lengthy documents and data** and discuss implications, but **reserve critical analysis and final conclusions for yourself**.
+- To delegate effectively:
+  - Understand your **goal and the problem** you're solving
+  - Recognize what AI **can and can't do well**
+  - **Thoughtfully divide the work** between you and the AI
+- Delegation is **not just offloading tasks**. It's having a **clear vision** and _strategically choosing how AI fits into your process_.
+- Essential for **effective and efficient** collaboration.
+
+#### 2. Description: _clear communication with AI_
+
+- Compare a vague "make me a logo" with describing your **company values, target audience, preferred colors, and style references**.
+- Example: as a tutor, tell the AI _"don't tell me the answer, just help me work through this step by step."_
+- It goes **beyond writing prompts**. It means **detailed, context-rich conversations** that set out:
+  - The **goal and output format**
+  - How the AI should **approach the task**
+  - The **context and information** it needs
+  - The **tone and style** of interaction
+- Effective description _sets up both you and the AI for collaborative success_.
+
+#### 3. Discernment: _evaluating what AI gives you_
+
+- Example: AI suggests a marketing strategy. Ask: **Are the facts accurate? Does the reasoning make sense? Does it align with your brand and audience? Does it help you move forward?**
+- Draws on **your own domain expertise** and requires **judgment and critical insight** to separate _what's useful from what's not_, and to know when to **refine or set aside** an output.
+- Most AI interactions are **small loops of description and discernment**: _describe, evaluate, refine, repeat_.
+
+#### 4. Diligence: _responsible AI interaction_
+
+- Key questions:
+  - Are you ensuring **fairness and controlling for bias**? (e.g., job descriptions, application reviews)
+  - Are you **verifying accuracy** for important decisions?
+  - Are you **protecting sensitive data**?
+  - Are you **transparent** about AI's involvement?
+  - Are you **accountable** for AI-assisted work?
+- Diligence means **taking ownership** and being willing to **stand behind** final AI-assisted products.
+- Critical for **safe and ethical** collaboration.
+
+### Recap
+
+- **AI fluency** = practical **skills, knowledge, insights, and values** for using AI _effectively, efficiently, ethically, and safely_.
+- The 4 Ds in short:
+  - **Delegation:** decide _when and how_ to use AI
+  - **Description:** _communicate clearly_ with AI
+  - **Discernment:** _evaluate_ AI outputs
+  - **Diligence:** use AI _responsibly_
+- These competencies are **not tied to specific tools or techniques** that may become outdated. They're **fundamental skills** that help you _adapt and grow alongside_ a rapidly evolving technology.
